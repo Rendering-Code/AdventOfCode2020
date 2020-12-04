@@ -9,6 +9,7 @@
           <e p="Day1Advent.cs" t="Include" />
           <e p="Day2Advent.cs" t="Include" />
           <e p="Day3Advent.cs" t="Include" />
+          <e p="Day4Advent.cs" t="Include" />
         </e>
         <e p="AdventOfCode.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
