@@ -38,10 +38,12 @@
         <Reference Include="System.Xml" />
     </ItemGroup>
     <ItemGroup>
+        <Compile Include="Advent\BaseAdvent.cs" />
         <Compile Include="Advent\Day1Advent.cs" />
         <Compile Include="Advent\Day2Advent.cs" />
         <Compile Include="Advent\Day3Advent.cs" />
         <Compile Include="Advent\Day4Advent.cs" />
+        <Compile Include="Advent\Day5Advent.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>

@@ -6,10 +6,12 @@
     <e p="D:\Users\Zack\wkspaces\BasetisWorkspace\AdventOfCode2020" t="IncludeFlat">
       <e p="AdventOfCode" t="IncludeRecursive">
         <e p="Advent" t="Include">
+          <e p="BaseAdvent.cs" t="Include" />
           <e p="Day1Advent.cs" t="Include" />
           <e p="Day2Advent.cs" t="Include" />
           <e p="Day3Advent.cs" t="Include" />
           <e p="Day4Advent.cs" t="Include" />
+          <e p="Day5Advent.cs" t="Include" />
         </e>
         <e p="AdventOfCode.csproj" t="IncludeRecursive" />
         <e p="bin" t="ExcludeRecursive" />
