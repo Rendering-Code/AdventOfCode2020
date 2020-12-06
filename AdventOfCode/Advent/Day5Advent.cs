@@ -34,6 +34,11 @@ namespace AdventOfCode.Advent
             //SearchSingleSeat(lines);
             SearchEmptySeat(lines);
         }
+        
+        private string[] ReadFile()
+        {
+            return File.ReadAllLines(filePath);
+        }
 
         private void SearchSingleSeat(string[] lines)
         {
@@ -82,11 +87,6 @@ namespace AdventOfCode.Advent
                 nearIndex = -1;
             
             return validSeat;
-        }
-
-        private string[] ReadFile()
-        {
-            return File.ReadAllLines(filePath);
         }
 
         private int EvaluateSeat(string seatPositionData)
