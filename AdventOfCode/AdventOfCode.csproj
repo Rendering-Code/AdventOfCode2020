@@ -45,6 +45,7 @@
         <Compile Include="Advent\Day4Advent.cs" />
         <Compile Include="Advent\Day5Advent.cs" />
         <Compile Include="Advent\Day6Advent.cs" />
+        <Compile Include="Advent\Day7Advent.cs" />
         <Compile Include="Program.cs" />
         <Compile Include="Properties\AssemblyInfo.cs" />
     </ItemGroup>
