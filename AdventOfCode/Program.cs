@@ -10,7 +10,7 @@ namespace AdventOfCode
         {
             Stopwatch watch = Stopwatch.StartNew();
             
-            BaseAdvent advent = new Day7Advent("..\\..\\AdventFiles\\Day7Advent.txt");
+            BaseAdvent advent = new Day8Advent("..\\..\\AdventFiles\\Day8Advent.txt");
             advent.Execute();
             
             Console.WriteLine("Performance stopwatch in miliseconds: "+watch.ElapsedMilliseconds);
