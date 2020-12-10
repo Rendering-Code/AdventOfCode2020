@@ -39,6 +39,7 @@
     </ItemGroup>
     <ItemGroup>
         <Compile Include="Advent\BaseAdvent.cs" />
+        <Compile Include="Advent\Day10Advent.cs" />
         <Compile Include="Advent\Day1Advent.cs" />
         <Compile Include="Advent\Day2Advent.cs" />
         <Compile Include="Advent\Day3Advent.cs" />

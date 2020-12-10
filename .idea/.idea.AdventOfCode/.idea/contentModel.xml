@@ -7,6 +7,7 @@
       <e p="AdventOfCode" t="IncludeRecursive">
         <e p="Advent" t="Include">
           <e p="BaseAdvent.cs" t="Include" />
+          <e p="Day10Advent.cs" t="Include" />
           <e p="Day1Advent.cs" t="Include" />
           <e p="Day2Advent.cs" t="Include" />
           <e p="Day3Advent.cs" t="Include" />
