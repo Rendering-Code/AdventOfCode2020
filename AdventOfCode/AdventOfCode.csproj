@@ -41,6 +41,13 @@
         <Compile Include="Advent\BaseAdvent.cs" />
         <Compile Include="Advent\Day10Advent.cs" />
         <Compile Include="Advent\Day11Advent.cs" />
+        <Compile Include="Advent\Day13Advent.cs" />
+        <Compile Include="Advent\Day14Advent.cs" />
+        <Compile Include="Advent\Day15Advent.cs" />
+        <Compile Include="Advent\Day16Advent.cs" />
+        <Compile Include="Advent\Day17Advent.cs" />
+        <Compile Include="Advent\Day18Advent.cs" />
+        <Compile Include="Advent\Day19Advent.cs" />
         <Compile Include="Advent\Day1Advent.cs" />
         <Compile Include="Advent\Day2Advent.cs" />
         <Compile Include="Advent\Day3Advent.cs" />

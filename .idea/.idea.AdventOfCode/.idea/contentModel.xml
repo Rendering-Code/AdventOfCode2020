@@ -9,6 +9,13 @@
           <e p="BaseAdvent.cs" t="Include" />
           <e p="Day10Advent.cs" t="Include" />
           <e p="Day11Advent.cs" t="Include" />
+          <e p="Day13Advent.cs" t="Include" />
+          <e p="Day14Advent.cs" t="Include" />
+          <e p="Day15Advent.cs" t="Include" />
+          <e p="Day16Advent.cs" t="Include" />
+          <e p="Day17Advent.cs" t="Include" />
+          <e p="Day18Advent.cs" t="Include" />
+          <e p="Day19Advent.cs" t="Include" />
           <e p="Day1Advent.cs" t="Include" />
           <e p="Day2Advent.cs" t="Include" />
           <e p="Day3Advent.cs" t="Include" />
